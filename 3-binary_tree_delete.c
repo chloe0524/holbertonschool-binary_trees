@@ -9,15 +9,15 @@
 void binary_tree_delete(binary_tree_t *tree)
 {
 	if (tree == NULL)
-		return (NULL);
+		return;
 
 	if (tree->right == NULL)
-		return (NULL);
+		return;
 	binary_tree_delete(tree->right);
 
 	if (tree->left == NULL)
-		return (NULL);
-	binary_tree_delete(tree_left);
+		return;
+	binary_tree_delete(tree->left);
 
 	free(tree);
 }
