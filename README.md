@@ -6,6 +6,7 @@
 
  ## Table of Contents
 
+|                                                               |
 | ---------------------------- | ------------------------------ |
 | [Task 0: New node](#task-0-new-node)         | [Task 9: Height](#task-9-height)               |
 | [Task 1: Insert left](#task-1-insert-left)   | [Task 10: Depth](#task-10-depth)               |
