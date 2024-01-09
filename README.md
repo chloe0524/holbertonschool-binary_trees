@@ -7,7 +7,7 @@
 
 | Tasks (1-9)                               | Tasks (10-18)                              |
 | ----------------------------------------- | ----------------------------------------- |
-| [Task 0: New node](#task-0-new-node)       | [Task 10: Depth](#task-10-depth)           |
+| [Task 0: New node]([#task-0-new-node](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/0-binary_tree_node.c))       | [Task 10: Depth](#task-10-depth)           |
 | [Task 1: Insert left](#task-1-insert-left) | [Task 11: Size](#task-11-size)             |
 | [Task 2: Insert right](#task-2-insert-right)| [Task 12: Leaves](#task-12-leaves)         |
 | [Task 3: Delete](#task-3-delete)           | [Task 13: Nodes](#task-13-nodes)           |
