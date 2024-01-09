@@ -18,7 +18,7 @@
 | [Task 6: Pre-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/6-binary_tree_preorder.c)| [Task 16: Is perfect](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/16-binary_tree_is_perfect.c)|
 | [Task 7: In-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/7-binary_tree_inorder.c)   | [Task 17: Sibling](#task-17-sibling)             | <!-- Link not provided -->
 | [Task 8: Post-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/8-binary_tree_postorder.c)| [Task 18: Uncle](#task-18-uncle)                 | <!-- Link not provided |
-| [Task 9: Height](#task-9-height) |
+| [Task 9: Height](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/9-binary_tree_height.c) |
 
 ## :pushpin: Tasks (mandatory)
 
