@@ -2,7 +2,6 @@
 
 # Project Name: C - Binary Trees
 *by Chloe & Yassine*
-## Table of Contents
 
  ## Table of Contents
 
