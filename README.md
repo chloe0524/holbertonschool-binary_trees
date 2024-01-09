@@ -1,4 +1,4 @@
-![# Project Name C - Binary Trees ## Table of Contents -  Task 0 New node (#task-0-new-node) -  Task 1 Insert left (#task-1-insert-left) -  Task 2 Insert right (#task-2-insert-right) -  Task 3 Delet](https://github.com/chloe0524/holbertonschool-binary_trees/assets/127857895/06883a71-e56e-4c63-950a-3ac7ccdc0a3d)
+![# Project Name C - Binary Trees ## Table of Contents -  Task 0 New node (#task-0-new-node) -  Task 1 Insert left (#task-1-insert-left) -  Task 2 Insert right (#task-2-insert-right) -  Task 3 Delet (1)](https://github.com/chloe0524/holbertonschool-binary_trees/assets/127857895/b4499e0d-f370-4bef-9087-72f775f117e1)
 
 # Project Name: C - Binary Trees
 *by Chloe & Yassine*
