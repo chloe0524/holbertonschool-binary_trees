@@ -4,25 +4,19 @@
 *by Chloe & Yassine*
 ## Table of Contents
 
-   - [Task 0: New node](#task-0-new-node)
-   - [Task 1: Insert left](#task-1-insert-left)
-   - [Task 2: Insert right](#task-2-insert-right)
-   - [Task 3: Delete](#task-3-delete)
-   - [Task 4: Is leaf](#task-4-is-leaf)
-   - [Task 5: Is root](#task-5-is-root)
-   - [Task 6: Pre-order traversal](#task-6-pre-order-traversal)
-   - [Task 7: In-order traversal](#task-7-in-order-traversal)
-   - [Task 8: Post-order traversal](#task-8-post-order-traversal)
-   - [Task 9: Height](#task-9-height)
-   - [Task 10: Depth](#task-10-depth)
-   - [Task 11: Size](#task-11-size)
-   - [Task 12: Leaves](#task-12-leaves)
-   - [Task 13: Nodes](#task-13-nodes)
-   - [Task 14: Balance factor](#task-14-balance-factor)
-   - [Task 15: Is full](#task-15-is-full)
-   - [Task 16: Is perfect](#task-16-is-perfect)
-   - [Task 17: Sibling](#task-17-sibling)
-   - [Task 18: Uncle](#task-18-uncle)
+ ## Table of Contents
+
+| ---------------------------- | ------------------------------ |
+| [Task 0: New node](#task-0-new-node)         | [Task 9: Height](#task-9-height)               |
+| [Task 1: Insert left](#task-1-insert-left)   | [Task 10: Depth](#task-10-depth)               |
+| [Task 2: Insert right](#task-2-insert-right) | [Task 11: Size](#task-11-size)                 |
+| [Task 3: Delete](#task-3-delete)             | [Task 12: Leaves](#task-12-leaves)             |
+| [Task 4: Is leaf](#task-4-is-leaf)           | [Task 13: Nodes](#task-13-nodes)               |
+| [Task 5: Is root](#task-5-is-root)           | [Task 14: Balance factor](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/14-binary_tree_balance.c#L42) |
+| [Task 6: Pre-order traversal](#task-6-pre-order-traversal) | [Task 15: Is full](#task-15-is-full)        |
+| [Task 7: In-order traversal](#task-7-in-order-traversal)   | [Task 16: Is perfect](#task-16-is-perfect) |
+| [Task 8: Post-order traversal](#task-8-post-order-traversal) | [Task 17: Sibling](#task-17-sibling)      |
+| [Task 18: Uncle](#task-18-uncle)             |                                    |
 
 ## Tasks (mandatory)
 
