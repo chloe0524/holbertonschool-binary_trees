@@ -10,7 +10,7 @@
 | Tasks (1-9)                                                   | Tasks (10-18)                               |
 | ------------------------------------------------------------- | -------------------------------------------- |
 | [Task 0: New node](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/0-binary_tree_node.c)           | [Task 9: Height](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/9-binary_tree_height.c) |
-[Task 10: Depth](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/10-binary_tree_depth.c)            |
+                                                                  [Task 10: Depth](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/10-binary_tree_depth.c)            |
 | [Task 1: Insert left](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/1-binary_tree_insert_left.c)  | [Task 11: Size](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/11-binary_tree_size.c)             |
 | [Task 2: Insert right](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/2-binary_tree_insert_right.c)|[Task 12: Leaves](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/12-binary_tree_leaves.c)         |
 | [Task 3: Delete](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/3-binary_tree_delete.c)              | [Task 13: Nodes](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/13-binary_tree_nodes.c)           |
