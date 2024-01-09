@@ -22,7 +22,7 @@
 |                                           |                                           |
 
 
-## Tasks (mandatory)
+## :pushpin: Tasks (mandatory)
 
 ### Task 0: New node
 Write a function that creates a binary tree node.
