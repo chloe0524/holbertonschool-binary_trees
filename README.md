@@ -3,8 +3,6 @@
 # Project Name: C - Binary Trees
 *by Chloe & Yassine*
 
- ## Table of Contents
-
 ## :open_file_folder: Table of Contents
 
 | Tasks (1-9)                               | Tasks (10-18)                              |
