@@ -15,7 +15,7 @@
 | [Task 4: Is leaf](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/4-binary_tree_is_leaf.c)            | [Task 14: Balance factor](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/14-binary_tree_balance.c) |
 | [Task 5: Is root](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/5-binary_tree_is_root.c)            | [Task 15: Is full](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/15-binary_tree_is_full.c)       |
 | [Task 6: Pre-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/6-binary_tree_preorder.c)| [Task 16: Is perfect](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/16-binary_tree_is_perfect.c)|
-| [Task 7: In-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/7-binary_tree_inorder.c)   | [Task 17: Sibling](#task-17-sibling)             | <!-- Link not provided -->
+| [Task 7: In-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/7-binary_tree_inorder.c)   | [[Task 17: Sibling](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/17-binary_tree_sibling.c)
 | [Task 8: Post-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/8-binary_tree_postorder.c)| [Task 18: Uncle](#task-18-uncle)                 | <!-- Link not provided |
 | [Task 9: Height](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/9-binary_tree_height.c) | ``**ALL OF THOSE ARE MANDATORY**`` |
 
