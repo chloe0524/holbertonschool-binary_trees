@@ -1,11 +1,10 @@
-![# Project Name C - Binary Trees ## Table of Contents -  Task 0 New node (#task-0-new-node) -  Task 1 Insert left (#task-1-insert-left) -  Task 2 Insert right (#task-2-insert-right) -  Task 3 Delet](https://github.com/chloe0524/holbertonschool-binary_trees/assets/127857895/06883a71-e56e-4c63-950a-3ac7ccdc0a3d)
+![# Project Name C - Binary Trees ## Table of Contents -  Task 0 New node (#task-0-new-node) -  Task 1 Insert left (#task-1-insert-left) -  Task 2 Insert right (#task-2-insert-right) -  Task 3 Delet (1)](https://github.com/chloe0524/holbertonschool-binary_trees/assets/127857895/b4499e0d-f370-4bef-9087-72f775f117e1)
 
 # Project Name: C - Binary Trees
 *by Chloe & Yassine*
 
 ## :open_file_folder: Table of Contents
 
-## Table of Contents
 
 | Tasks (1-9)                                                   | Tasks (10-18)                               |
 | ------------------------------------------------------------- | -------------------------------------------- |
@@ -18,9 +17,7 @@
 | [Task 6: Pre-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/6-binary_tree_preorder.c)| [Task 16: Is perfect](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/16-binary_tree_is_perfect.c)|
 | [Task 7: In-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/7-binary_tree_inorder.c)   | [Task 17: Sibling](#task-17-sibling)             | <!-- Link not provided -->
 | [Task 8: Post-order traversal](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/8-binary_tree_postorder.c)| [Task 18: Uncle](#task-18-uncle)                 | <!-- Link not provided |
-| [Task 9: Height](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/9-binary_tree_height.c) |
-
-
+| [Task 9: Height](https://github.com/chloe0524/holbertonschool-binary_trees/blob/main/9-binary_tree_height.c) | ``**ALL OF THOSE ARE MANDATORY**`` |
 
 ## :pushpin: Tasks (mandatory)
 
